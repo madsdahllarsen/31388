@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Exec=/usr/local/bin/matlab71
+TryExec=
+Icon=/usr/share/pixmaps/gnome-ccbackground.png
+X-GNOME-DocPath=
+Terminal=true
+Name[en_US]=matlab7
+GenericName[en_US]=Matlab
+Comment[en_US]=
